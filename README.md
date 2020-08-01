@@ -1,0 +1,10 @@
+# 1. PHOTOHANDLER
+
+It is a basic script that helps in exporting photos from Google Photos takeouts to one folder.
+#### USAGE : 
++ All requirements are satisfied with python version 3.0+
++ Edit out paths i.e. 'scr' and 'dest' with your source and destination
++ Run 3rd cell and all images and videos will be copied to your destination
++ If there is chance of duplicates then edit out 4th cell and fill in paths list and run it
+
+###### Note: 2nd and 3rd cell are just for illustrating use of os module and its supported methods.

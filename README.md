@@ -18,3 +18,8 @@ Script that automatically organizes files into folders based on their extension.
 + Edit out directory variable and run 2nd cell containing organizer function 
 
 ###### Note: If you can't import pandas then just use exts dictionary instead of return_dic function in 2nd cell.
+
+
+# 2. AMAZON LOOKUP
+Scraper that scrapes info about the product after taking URL as input.
+

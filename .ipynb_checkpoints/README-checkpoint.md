@@ -13,6 +13,9 @@ It is a basic script that helps in exporting photos from Google Photos takeouts 
 
 
 # 2. ORGANIZER
+<a href="https://github.com/aryantps/Scripts/blob/master/2_organizer.ipynb" target="_blank">Click Here</a>
+
+
 Script that automatically organizes files into folders based on their extension.
 #### USAGE : 
 + You can 'pip install pandas' for importing pandas.
@@ -22,5 +25,7 @@ Script that automatically organizes files into folders based on their extension.
 
 
 # 2. AMAZON LOOKUP
+<a href="https://github.com/aryantps/Scripts/blob/master/3_amazonLookup.ipynb" target="_blank">Click Here</a>
+
 Scraper that scrapes info about the product after taking URL as input.
 
